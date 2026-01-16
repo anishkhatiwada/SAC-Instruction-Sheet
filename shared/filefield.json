@@ -1,0 +1,321 @@
+[
+  {
+    "key": "purpose",
+    "label": "purpose",
+    "options": [
+      "SNS Post",
+      "TikTok Thumbnail / Short Video Use",
+      "YouTube Thumbnail",
+      "E-commerce Product Image",
+      "Ad Banner",
+      "Blog / Media Illustration Image",
+      "Profile Icon",
+      "Presentation Illustration",
+      "LINE-style Stamp Image",
+      "App Promotional Visual",
+      "Event Announcement Visual",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "subject",
+    "label": "subject",
+    "options": [
+      "Human",
+      "Animal",
+      "Food",
+      "Vehicle",
+      "Building",
+      "Landscape",
+      "Fantasy creature",
+      "Character",
+      "Robot",
+      "Pet",
+      "Plant",
+      "Furniture",
+      "Home Appliance",
+      "Gadget",
+      "Art / Abstract Object",
+      "Clothing",
+      "Cosmetics",
+      "Accessories",
+      "Dish",
+      "Drink",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "situation",
+    "label": "situation",
+    "options": [
+      "Standing",
+      "Sitting",
+      "Walking",
+      "Running",
+      "Working",
+      "Eating",
+      "Speaking",
+      "Posing",
+      "Using smartphone",
+      "Using computer",
+      "Reading",
+      "Sleeping",
+      "Relaxing",
+      "Driving",
+      "Shopping",
+      "Taking a photo",
+      "Being photographed",
+      "Exercising",
+      "Dancing",
+      "Studying",
+      "Cooking",
+      "Cleaning",
+      "Playing games",
+      "Talking on the phone",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "age_range",
+    "label": "age range",
+    "options": [
+      "Newborn / 0-1 month",
+      "Infant / 1 month - 1 year",
+      "Toddler / 1-3 years",
+      "Preschooler / 3-6 years",
+      "Lower elementary / Grades 1-3",
+      "Upper elementary / Grades 4-6",
+      "Junior high / 12-15 years",
+      "High school / 15-18 years",
+      "College / 18-22 years",
+      "Young adult / 20-29 years",
+      "Adult / 30-39 years",
+      "Middle-aged / 40-59 years",
+      "Senior / 60-74 years",
+      "Elderly / 75+ years",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "gender",
+    "label": "gender",
+    "options": [
+      "Male",
+      "Female",
+      "Non-binary",
+      "Unknown"
+    ]
+  },
+  {
+    "key": "nationality",
+    "label": "nationality",
+    "options": [
+      "Japan",
+      "China",
+      "Korea",
+      "Taiwan",
+      "India",
+      "USA",
+      "Canada",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Russia",
+      "Brazil",
+      "Mexico",
+      "Australia",
+      "Turkey",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Egypt",
+      "South Africa",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "style",
+    "label": "style",
+    "options": [
+      "Realistic",
+      "Hyper-realistic",
+      "Photo-realistic",
+      "Cinematic",
+      "Natural light photo",
+      "Portrait photo",
+      "Fashion magazine style",
+      "Street snap style",
+      "Smartphone selfie style",
+      "Smartphone photo style",
+      "Anime",
+      "Manga",
+      "Watercolor",
+      "Oil painting",
+      "Fantasy",
+      "Cyberpunk",
+      "3D render",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "shot_distance",
+    "label": "shot distance",
+    "options": [
+      "Extreme close-up",
+      "Close-up",
+      "Medium close-up",
+      "Medium shot",
+      "Full shot",
+      "Long shot",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "camera_angle",
+    "label": "camera angle",
+    "options": [
+      "Eye-level",
+      "Low angle",
+      "High angle",
+      "Top view",
+      "Over-the-shoulder",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "lighting_color",
+    "label": "lighting color",
+    "options": [
+      "Natural light",
+      "Soft light",
+      "Hard light / Hard shadows",
+      "Dramatic lighting",
+      "Backlight",
+      "Top light",
+      "Spotlight",
+      "Neon light",
+      "Low light",
+      "Dim light",
+      "Night lighting",
+      "Isolated spotlight",
+      "Warm tone",
+      "Cool tone",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "background",
+    "label": "background",
+    "options": [
+      "Studio",
+      "Living room",
+      "Bedroom",
+      "Kitchen",
+      "Office / Study",
+      "Cafe",
+      "Classroom",
+      "Shop interior",
+      "Street",
+      "Park",
+      "Forest",
+      "Beach",
+      "Mountain",
+      "Sunset outdoors",
+      "Night city",
+      "Futuristic / Sci-fi",
+      "Fantasy world",
+      "Space",
+      "Factory",
+      "Ruins",
+      "Abstract",
+      "Gradient background",
+      "White background",
+      "Black background",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "city",
+    "label": "city",
+    "options": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Sapporo",
+      "Fukuoka",
+      "New York",
+      "Los Angeles",
+      "San Francisco",
+      "Paris",
+      "London",
+      "Berlin",
+      "Rome",
+      "Beijing",
+      "Shanghai",
+      "Shenzhen",
+      "Seoul",
+      "Bangkok",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "location_type",
+    "label": "location type",
+    "options": [
+      "Downtown",
+      "Residential area",
+      "Business district",
+      "Tourist spot",
+      "Old town",
+      "Shopping street",
+      "Park / Plaza",
+      "Riverside / Lakeside",
+      "Harbor",
+      "Beach area",
+      "Airport",
+      "Station",
+      "Bus terminal",
+      "Highway / Main road",
+      "Alleyway",
+      "Market",
+      "Stadium area",
+      "Campus / School area",
+      "Industrial area",
+      "Suburb",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "output_format",
+    "label": "output format",
+    "options": [
+      "PNG",
+      "JPG",
+      "WebP",
+      "GIF",
+      "BMP",
+      "TIFF",
+      "ICO",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "aspect_ratio",
+    "label": "aspect ratio",
+    "options": [
+      "1:1",
+      "3:4",
+      "4:3",
+      "9:16",
+      "16:9",
+      "21:9",
+      "Not Applicable"
+    ]
+  },
+  {
+    "key": "additional_words",
+    "label": "Additional Words",
+    "options": []
+  }
+]
